@@ -13,3 +13,4 @@ Inspired by Andrew Ng's advice on [how to do research](https://youtu.be/733m6qBH
 | Rethinking ImageNet Pre-training                                                     | https://arxiv.org/abs/1811.08883 |              10 |
 | Densely Connected Convolutional Networks                                             | https://arxiv.org/abs/1608.06993 |              10 |
 | Group Normalization                                                                  | https://arxiv.org/abs/1803.08494 |               7 |
+| Weight Standardization                                                               | https://arxiv.org/abs/1903.10520 |               1 |
