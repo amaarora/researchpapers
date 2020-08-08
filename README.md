@@ -14,3 +14,4 @@ Inspired by Andrew Ng's advice on [how to do research](https://youtu.be/733m6qBH
 | Densely Connected Convolutional Networks                                             | https://arxiv.org/abs/1608.06993 |              10 |
 | Group Normalization                                                                  | https://arxiv.org/abs/1803.08494 |               7 |
 | Weight Standardization                                                               | https://arxiv.org/abs/1903.10520 |               1 |
+| Big Transfer (BiT): General Visual Representation Learning                           | https://arxiv.org/abs/1912.11370 |               6 |
