@@ -15,3 +15,4 @@ Inspired by Andrew Ng's advice on [how to do research](https://youtu.be/733m6qBH
 | Group Normalization                                                                  | https://arxiv.org/abs/1803.08494 |               7 |
 | Weight Standardization                                                               | https://arxiv.org/abs/1903.10520 |               1 |
 | Big Transfer (BiT): General Visual Representation Learning                           | https://arxiv.org/abs/1912.11370 |               6 |
+| A Simple Framework for Contrastive Learning of Visual Representations                | https://arxiv.org/abs/2002.05709 |               4 |
