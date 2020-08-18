@@ -15,3 +15,5 @@ Inspired by Andrew Ng's advice on [how to do research](https://youtu.be/733m6qBH
 | Group Normalization                                                                  | https://arxiv.org/abs/1803.08494 |               7 |
 | Weight Standardization                                                               | https://arxiv.org/abs/1903.10520 |               1 |
 | Big Transfer (BiT): General Visual Representation Learning                           | https://arxiv.org/abs/1912.11370 |               6 |
+| ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks          | https://arxiv.org/abs/1910.03151 |               8 |
+| EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks             | https://arxiv.org/abs/1905.11946 |               9 |
