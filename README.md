@@ -18,3 +18,4 @@ Inspired by Andrew Ng's advice on [how to do research](https://youtu.be/733m6qBH
 | ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks          | https://arxiv.org/abs/1910.03151 |               8 |
 | EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks             | https://arxiv.org/abs/1905.11946 |               9 |
 | A Simple Framework for Contrastive Learning of Visual Representations                | https://arxiv.org/abs/2002.05709 |               4 |
+| Go Wide, Then Narrow: Efficient Training of Deep Thin Networks                       | https://arxiv.org/abs/2007.00811 |               4 |
