@@ -19,3 +19,8 @@ Inspired by Andrew Ng's advice on [how to do research](https://youtu.be/733m6qBH
 | EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks             | https://arxiv.org/abs/1905.11946 |               9 |
 | A Simple Framework for Contrastive Learning of Visual Representations                | https://arxiv.org/abs/2002.05709 |               4 |
 | Go Wide, Then Narrow: Efficient Training of Deep Thin Networks                       | https://arxiv.org/abs/2007.00811 |               4 |
+| Fine-tuning CNN Image Retrieval with No Human Annotation                             | https://arxiv.org/abs/1711.02512 |               8 |
+| 2nd Place and 2nd Place Solution to Kaggle Landmark Recognition and Retrieval Competition 2019 
+                                                                                       | https://arxiv.org/abs/1906.03990 |               5 |
+| ArcFace: Additive Angular Margin Loss for Deep Face Recognition                      | https://arxiv.org/abs/1801.07698 |               6 |
+| Unifying Deep Local and Global Features for Image Search                             | https://arxiv.org/abs/2001.05027 |               3 |
