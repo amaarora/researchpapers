@@ -23,3 +23,4 @@ Inspired by Andrew Ng's advice on [how to do research](https://youtu.be/733m6qBH
 | 2nd Place and 2nd Place Solution to Kaggle Landmark Recognition and Retrieval Competition 2019 | https://arxiv.org/abs/1906.03990 |     5 |
 | ArcFace: Additive Angular Margin Loss for Deep Face Recognition                      | https://arxiv.org/abs/1801.07698 |               6 |
 | Unifying Deep Local and Global Features for Image Search                             | https://arxiv.org/abs/2001.05027 |               3 |
+| A Discriminative Feature Learning Approach for Deep Face Recognition | https://kpzhang93.github.io/papers/eccv2016.pdf |  8 |
